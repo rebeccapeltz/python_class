@@ -15,10 +15,6 @@ def calculate(first_number, second_number, operator):
 
 # print(calculate(1,2,'+'))
 
-
-
-
-
 first_number = input("What is the first number? ")
 first_number = int(first_number)
 
